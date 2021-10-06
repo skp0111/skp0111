@@ -20,7 +20,7 @@
 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShashankPatel0111" alt="Jks08" /></a> </p>
-
+<p align="center"> <a href="https://activity-graph.herokuapp.com/graph?username=shashankpatel0111"> <img src="https://activity-graph.herokuapp.com/graph?username=shashankpatel0111&theme=react-dark" alt="Activity Graph"></p>
 <table>
 <tr>
 <td>You are visitor no.</td>
