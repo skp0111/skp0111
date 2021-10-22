@@ -15,7 +15,7 @@
 <p align="center">
           <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=skp0111&count_private=true&show_icons=true&theme=github_dark" alt="Stats" />
           <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=skp0111&theme=dark" alt="Stats" />
-          <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skp0111&theme=github_dark&langs_count=5">
+          <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skp0111&theme=github_dark&langs_count=5&layout=compact">
 </p>
 
 <br>
