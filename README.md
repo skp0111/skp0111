@@ -1,8 +1,12 @@
-<h1 align="center"> Hello, I am <a href="">Aviral </a></h1>
+<h1 align="center"> Hello, I am <a href="https://www.linkedin.com/in/shashank-patel-70451618b/">Shashank Patel </a></h1>
 
 🔭 I’m currently working on a Full Stack Instagram Clone
 
 🌱 I’m currently learning MERN Full Stack Development, ML, AI
+
+👯 I’m looking to collaborate on Full Stack Projects
+
+📫 Contact me at: [<img align="center" alt="LinkedIn" width="80px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/shashank-patel-70451618b/) or mail me at shashank01patel11@gmail.com
 
 ⚡ Fun fact: Music is always running in the background.
 
@@ -17,6 +21,7 @@
 <br>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=skp0111&no-frame=true&theme=dracula&no-bg=true&margin-w=40" alt="Jks08" /></a> </p>
 
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=skp0111&theme=react-dark" alt="Activity Graph"></p>
 <table>
 <tr>
 <td>You are visitor no.</td>
